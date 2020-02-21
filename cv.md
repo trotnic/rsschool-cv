@@ -11,6 +11,7 @@ I'm at the start of the way to become the iOS developer. Calm, responsible, frie
 - ##### Java
 - ##### XCode
 - ##### Swift
+- ##### Git
 ##Code example
 #####[my examination work for web-development subject in the second semester](https://github.com/trotnic/WebFinal/tree/dev "my examination work for web-development subject in the second semester")
 ##Experience
